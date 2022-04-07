@@ -140,7 +140,7 @@ h1 { font-size: 2.75rem; }
 @media (min-width: 768px) {
 
     .LOGO {
-        width: 37.5% !important;
+        width: 87.5% !important;
     }
 
     h1 { font-size: 3rem; }
